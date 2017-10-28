@@ -1,0 +1,11 @@
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ClienteEstoque\obj\Debug\Cliente1.csprojResolveAssemblyReference.cache
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ClienteEstoque\obj\Debug\Cliente1.csproj.CoreCompileInputs.cache
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ClienteEstoque\obj\Debug\ClienteEstoque.exe
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ClienteEstoque\obj\Debug\ClienteEstoque.pdb
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ClienteEstoque\bin\Debug\ClienteEstoque.exe.config
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ClienteEstoque\bin\Debug\ClienteEstoque.exe
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ClienteEstoque\bin\Debug\ClienteEstoque.pdb
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ClienteEstoque\bin\Debug\EntityFramework.dll
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ClienteEstoque\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ClienteEstoque\bin\Debug\EntityFramework.xml
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ClienteEstoque\bin\Debug\EntityFramework.SqlServer.xml

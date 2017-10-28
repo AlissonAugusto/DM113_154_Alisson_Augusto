@@ -1,0 +1,17 @@
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ProvedorEstoqueHost\bin\Debug\ProvedorEstoqueHost.exe.config
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ProvedorEstoqueHost\bin\Debug\ProvedorEstoqueHost.exe
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ProvedorEstoqueHost\bin\Debug\ProvedorEstoqueHost.pdb
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ProvedorEstoqueHost\bin\Debug\EstoqueLibrary.dll
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ProvedorEstoqueHost\bin\Debug\EstoqueEntityModel.dll
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ProvedorEstoqueHost\bin\Debug\EntityFramework.dll
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ProvedorEstoqueHost\bin\Debug\EstoqueLibrary.pdb
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ProvedorEstoqueHost\bin\Debug\EstoqueLibrary.dll.config
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ProvedorEstoqueHost\bin\Debug\EstoqueEntityModel.pdb
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ProvedorEstoqueHost\bin\Debug\EstoqueEntityModel.dll.config
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ProvedorEstoqueHost\bin\Debug\EntityFramework.xml
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.csprojResolveAssemblyReference.cache
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.csproj.CoreCompileInputs.cache
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.exe
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.pdb
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ProvedorEstoqueHost\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\ProvedorEstoqueHost\bin\Debug\EntityFramework.SqlServer.xml

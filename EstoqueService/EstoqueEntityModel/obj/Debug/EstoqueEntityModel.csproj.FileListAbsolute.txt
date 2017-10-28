@@ -1,0 +1,13 @@
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\EstoqueEntityModel\bin\Debug\EstoqueEntityModel.dll.config
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\EstoqueEntityModel\bin\Debug\EstoqueEntityModel.dll
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\EstoqueEntityModel\bin\Debug\EstoqueEntityModel.pdb
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\EstoqueEntityModel\bin\Debug\EntityFramework.dll
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\EstoqueEntityModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\EstoqueEntityModel\bin\Debug\EntityFramework.xml
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\EstoqueEntityModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csprojResolveAssemblyReference.cache
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.CoreCompileInputs.cache
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.dll
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.pdb
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.Migrations.Criacao_do_Banco.resources
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.GenerateResource.Cache

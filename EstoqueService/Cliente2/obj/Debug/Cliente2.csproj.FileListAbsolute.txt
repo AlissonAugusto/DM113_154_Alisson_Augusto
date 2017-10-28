@@ -1,0 +1,6 @@
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\Cliente2\bin\Debug\Cliente2.exe.config
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\Cliente2\bin\Debug\Cliente2.exe
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\Cliente2\bin\Debug\Cliente2.pdb
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\Cliente2\obj\Debug\Cliente2.csproj.CoreCompileInputs.cache
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\Cliente2\obj\Debug\Cliente2.exe
+C:\Users\aliss\OneDrive\Documentos\Visual Studio 2017\Projects\ProjetoDM113\EstoqueService\Cliente2\obj\Debug\Cliente2.pdb
